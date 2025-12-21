@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I'm Kawtar 👋
+🎓 IT Development student  
+💻 Aspiring Web Developer  
+📍 Morocco
 
-<!--
-**kawtar-bougajgal/kawtar-bougajgal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- HTML, CSS
+- JavaScript
+- PHP
+- MySQL
+- Git & GitHub
 
-Here are some ideas to get you started:
+## Currently Learning
+- Node.js
+- Express
+- Backend development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+- Build real-world web applications
+- Improve problem-solving skills
+- Get an internship or junior developer position
+
+📫 Feel free to explore my repositories!
